@@ -1,3 +1,3 @@
 # git_test
 "Hello Odin!"
-"I will become a frontend developer!"
+I will become a frontend developer!
